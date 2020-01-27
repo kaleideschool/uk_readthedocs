@@ -31,6 +31,8 @@ release = 'CC-BY-SA'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.todo',
+    'sphinx.ext.githubpages',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -47,11 +49,13 @@ master_doc = 'index'
 
 
 # -- Options for HTML output -------------------------------------------------
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'pyramid'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -70,7 +74,7 @@ latex_elements = {
      'pxunit': '',
      'passoptionstopackages': '',
      'babel': '',
-     'fontpkg': '\\usepackage{roboto}',  #\usepackage[default,oldstyle,scale=0.95]{opensans}
+     'fontpkg': '\\usepackage[sfdefault]{roboto}',  #\usepackage[default,oldstyle,scale=0.95]{opensans}
      'fncychap': '',
      'preamble': '',
      'figure_align': '',
