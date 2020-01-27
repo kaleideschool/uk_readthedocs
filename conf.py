@@ -64,4 +64,35 @@ html_static_path = ['_static']
 latex_engine = 'xelatex'
 #latex_documents = ('index', 'test', 'TEST', 'Diana')
 latex_show_pagerefs = True
+latex_elements = {
+     'papersize': 'a4paper',
+     'pointsize': '12pt',
+     'pxunit': '',
+     'passoptionstopackages': '',
+     'babel': '',
+     'fontpkg': '',
+     'fncychap': '',
+     'preamble': '',
+     'figure_align': '',
+     'atendofbody': '',
+     'extrapackages': '',
+     'footer': '',
+     'maketitle': '\\cover',
+     'releasename': '0.0.1',
+     'printindex': '',
+     'fontenc': '',
+     'inputenc': '',
+     'classoptions': '',
+     'utf8extra': '',
+     
+}
+
+latex_documents = [
+  ('index', 'music-for-geeks-and-nerds.tex', u'Music for Geeks and Nerds',
+   u'Pedro Kroger', 'manual'),
+]
+
+
+
+
 
