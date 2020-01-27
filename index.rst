@@ -13,8 +13,8 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   antibullying
-   behaviour
+    antibullying
+    behaviour
 
 
 Indices and tables
