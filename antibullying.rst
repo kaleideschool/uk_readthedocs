@@ -1,4 +1,4 @@
-# Anti-Bullying Policy
+Anti-Bullying Policy
 
 This Policy has been written in the context of our responsibilities under the British Schools Overseas Framework, and is written with regard to the DfE’s Guidance “Bullying: don’t suffer in silence”. Additional guidance is available from DfE documents “Preventing and tackling bullying”, “Cyberbullying: Advice for head facilitators and school staff” and “Advice for parents and carers on cyberbullying”.
 
