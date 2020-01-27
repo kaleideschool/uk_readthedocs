@@ -6,7 +6,9 @@ This Policy has been written in the context of our responsibilities under the Br
 
 This Policy should be read in conjunction with the school’s Behaviour Policy and Exclusions Policy.
 
-## Statement of intent <a id="h.i53h7c7210ia"></a>
+-------------------
+Statement of intent
+-------------------
 
 Kaleide International School aims to be a caring school, a place where everyone –children, staff, parents, and other community members– treat others fairly, with respect, empathy and kindness, and act in a socially responsible way towards all members of the school community, including people with special education needs. It is an inclusive community where diversity is affirmed within a framework of common values, and where all members participate in decision making and cooperate to promote everyone's well-being. We believe the school must provide not only a safe and protective environment, but one in which children feel a sense of belonging and love, and where their self-esteem is strengthened.
 
@@ -14,7 +16,9 @@ Our “human scale” helps educators and children develop bonds of trust, and b
 
 We are aware that being bullied may lead to depression or, in the most serious cases, attempted suicide. It can also cause anxiety, depression, loneliness and lack of trust in adult life. Bullying hurts. No-one deserves to be a victim of bullying. Everybody has the right to be treated with respect. Pupils who are bullying need to learn different ways of behaving.
 
-## Aims <a id="h.grrn3ewz9hnl"></a>
+-------------------
+Aims
+-------------------
 
 * To help individuals celebrate and value their differences and to acknowledge and respect the differences of others;
 * To encourage everyone to view themselves as an important part of the school community where their participation is valued and their views appreciated;
@@ -24,7 +28,9 @@ We are aware that being bullied may lead to depression or, in the most serious c
 * To develop a programme whereby all incidents of bullying and harassment are dealt with fairly and appropriately within a no-blame approach;
 * To help everyone feel secure in reporting incidents of bullying.
 
-## Objectives <a id="h.jo5simuzcbbt"></a>
+-------------------
+Objectives
+-------------------
 
 1. To establish a school culture of trust and openness where children feel safe communicating with adults and sharing incidents related to bullying;
 2. To communicate effectively to all members of the school community the school’s stance on bullying;
@@ -32,7 +38,9 @@ We are aware that being bullied may lead to depression or, in the most serious c
 4. To work with staff so that they can identify different sorts of bullying and know how to deal with cases sensitively, non-judgementally and effectively;
 5. To work with children in a range of ways so they are adequately equipped with skills, values and knowledge to counter and deal with bullying.
 
-## Definition of bullying <a id="h.pigo7bzie3l9"></a>
+-----------------------
+Definition of bullying
+-----------------------
 
 “Bullying is a relationship between individuals or groups over a period of time during which one party behaves in a way which might meet needs for excitement, status, material gain or group process without recognising or meeting the needs and rights of the other people/person who are harmed by the behaviour. The person or group that is harmed does not have the resources, status, skill, or ability to counteract or stop the harmful behaviour.” \(Barbara Maines and George Robinson, The No Blame Approach to Bullying\)
 
@@ -52,14 +60,18 @@ Bullying can occur through several types of anti-social behaviour:
 * Damage to property or theft: pupils may have their property damaged or stolen. The bully may resort to physical threats in order for that property to be handed over to him or her;
 * Cyber bullying: involves all areas of the internet, such as email, text messages and chat rooms, and social media. It can be particularly harmful because it can happen anywhere and at any time.
 
-### What bullying is not <a id="h.t7r3tfeb268i"></a>
+
+What bullying is not
+^^^^^^^^^^^^^^^^^^^^
 
 * Mutual conflict: an argument or disagreement between children where there is no imbalance of power. Both parties are upset and usually both want a resolution to the problem. However, unresolved mutual conflict may develop into bullying if one of the children seeks “retaliation” in a one-sided way.
 * Being left out: is unrealistic to think that every child must like to be with every other child. Refusing to play with a particular child or, for example, not inviting them to a birthday party is not bullying, provided social rejection does not involve deliberate and repeated attempts to cause distress, exclude or create dislike by others. Only when someone is ostracised or deliberately excluded, does being left out become bullying.
 * Single-episode acts of nastiness or meanness, or random acts of aggression or intimidation: although we shall always seek to address this kind of unkind behaviour, a single episode of nastiness, physical aggression, teasing or an occasional push or shove is not bullying. But when teasing becomes cruel and repetitive, it crosses the line into bullying.
 * Not playing fair: it is normal for children to insist on getting their own way and act “bossy”. Only when a child begins to consistently threaten other children or physically hurt them when things don't go his/her way does this become bullying.
 
-## The role of the school <a id="h.pww8ktqyqgd4"></a>
+----------------------
+The role of the school
+----------------------
 
 As educators, we acknowledge our role in modelling appropriate social and emotional skills in children. We strive to create a school culture based on trust and empathy, an environment that is welcoming to difference and diversity and is based on inclusion and respect.
 
@@ -78,8 +90,8 @@ The weekly Reflection Meeting creates a safe space to explore issues of concern,
 * learn to take turns;
 * discuss difficult issues using a problem-solving approach.
 
-### Strategies for staff <a id="h.27hxbv6ibz5o"></a>
-
+Strategies for staff
+^^^^^^^^^^^^^^^^^^^^
 We see children's behaviour as a visible projection of their emotional well-being and facilitators should strive to address the roots of behavioural problems by working closely with the parents. In cases related to a recurrent issue, strategies to better support the child may be put in place in a transparent and consensual manner.
 
 In terms of prevention, facilitators will resort to a specific range of interventions \(based on the work of Ferre Laevers at the Centre for Experiential Education\) in order to improve the level of well-being in individual children and start off “release processes”.
@@ -96,8 +108,8 @@ All cases of suspected bullying must be reported –by students, facilitators or
 
 All incidents of bullying –inside or outside school– involving children from Kaleide International School can be brought up at a whole school meeting and children will be involved in finding a solution, in line with our no blame approach and restorative justice practices. The facilitator/s involved will write a brief summary of the incident and its outcomes, and share it with the pedagogical team and the Managing Director.
 
-### Strategies for children <a id="h.sv224yeqcoen"></a>
-
+Strategies for children
+^^^^^^^^^^^^^^^^^^^^^^^
 Children at Kaleide International School are encouraged to express their emotions and reflect on difficult situations as a group. Whenever a case of bullying occurs, it will be one of the issues brought up at the next weekly Reflection Meeting, and specific attention will be devoted to it. A proposed strategy –based on restorative practices– for all the children involved will be as follows:
 
 * What happened?
@@ -109,8 +121,8 @@ Children at Kaleide International School are encouraged to express their emotion
 
 Children –especially the older ones– are also encouraged to take on the role of Mediators in cases of conflict. Mediators will be expected to support and empower younger children in the reporting of bullying.
 
-### Strategies for parents <a id="h.9bkb1xtf7n95"></a>
-
+Strategies for parents
+^^^^^^^^^^^^^^^^^^^^^^
 Kaleide International School involves parents and considers them as an integral part of the school. Parents' participation is just as essential as the participation of children and facilitators, and we function as a “three-party system” within the community at large. Throughout the year facilitators meet with parents to discuss all areas of their child's development –including aspects related to emotional well-being.
 
 We want to foster effective and open lines of communication with families and share with them whatever information might be of benefit to their children. In relation to the prevention of bullying:
@@ -145,18 +157,19 @@ Often, rather than telling an adult, children may indicate by signs and symptoms
 
 Parents are encouraged to seek help from the pedagogical team whenever they suspect their child is being bullied or is bullying someone else.
 
-### Monitoring and evaluation <a id="h.gaisvl1o6hbn"></a>
+Monitoring and evaluation
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 All reported cases of bullying will be recorded by the facilitator involved, who together with the Managing Director will undertake to:
 
 1. keep records confidential \(in compliance with General Data Protection Regulation \(EU GDPR\) and secure;
 2. ensure that all reported cases of bullying are resolved to the satisfaction of the individuals concerned.
 
+=====================
 The No Blame Approach
+=====================
 
-\(Appendix I\)[\[h\]]()
-
-Kaleide International School implements a “no blame” approach to instances of bullying, in line with the work of Barbara Maines and George Robinson[\[1\]](). We believe bullying is an antisocial behaviour resorted to by young people with low levels of well-being, and inadequate or inappropriate social skills; our response to it should help children learn better strategies to relate to their peers. Punishing the bully rarely works; and, in fact, may make things worse when the bully takes further revenge on the victim. In this sense, we find that increasing a bully's anxiety and alienation from us is not the best way to help him/her.
+Kaleide International School implements a “no blame” approach to instances of bullying, in line with the work of Barbara Maines and George Robinson [1]_ . We believe bullying is an antisocial behaviour resorted to by young people with low levels of well-being, and inadequate or inappropriate social skills; our response to it should help children learn better strategies to relate to their peers. Punishing the bully rarely works; and, in fact, may make things worse when the bully takes further revenge on the victim. In this sense, we find that increasing a bully's anxiety and alienation from us is not the best way to help him/her.
 
 Although we use the terms “bully” and “victim” in this policy, we do not think it is helpful to use them as labels in school. We know that to call a young person by any name must affect his/her self-image and must be difficult for parents to accept when we want to work cooperatively with them.
 
@@ -186,23 +199,25 @@ When a pupil is seriously assaulted by another, then the usual sanctions must be
 
 Any young person who has poor social and friendship skills or who is very unassertive should be offered help and support in order to learn appropriate social interaction. This should not be implied as a responsibility to stop the bullying for themselves.
 
+===================
 Restorative Justice
-
-\(Appendix II\)[\[i\]]()
+===================
 
 Inspired by indigenous values, restorative justice is a philosophy and a theory of justice that emphasises bringing together everyone affected by wrongdoing to address needs and responsibilities, and to heal the harm to relationships as much as possible. It is being applied in multiple contexts, including schools, families, workplaces, the justice system, global conflict, and as a tool to transform structural and historic harms.
 
-Restorative justice acknowledges that when a person does harm to another person they also harm themselves and the whole community. When one person has harmed another it is more useful to seek to repair the harm done to the victim, than to cause further harm to the offender \(Bazemore, 2001; Varnham, 2005; Wright, 1999\)[\[2\]]().
+Restorative justice acknowledges that when a person does harm to another person they also harm themselves and the whole community. When one person has harmed another it is more useful to seek to repair the harm done to the victim, than to cause further harm to the offender \(Bazemore, 2001; Varnham, 2005; Wright, 1999\) [2]_.
 
 Restorative justice is not only an alternative for dealing with conflict, but a proactive strategy to create a culture of connectivity where all members of the school community feel valued and thrive. Restorative justice is a profoundly relational practice.
 
-Restorative justice in a school setting views inappropriate behaviour as harm to relationships within the school community rather than school rule breaking. This means the harm done to people and relationships needs to be explored and the harm needs to be repaired \(Thorsborne and Cameron 2000\)[\[3\]](). The questions restorative justice asks are essentially different from those asked by retributive justice:
+Restorative justice in a school setting views inappropriate behaviour as harm to relationships within the school community rather than school rule breaking. This means the harm done to people and relationships needs to be explored and the harm needs to be repaired \(Thorsborne and Cameron 2000\) [3]_. The questions restorative justice asks are essentially different from those asked by retributive justice:
 
-| Retributive Justice | Restorative Justice |
-| :--- | :--- |
-| What rule or law was broken? | What is the harm? |
-| Who broke it? | What are the needs and obligations of all affected by the harm? |
-| What punishment is deserved? | How can all the affected parties create a plan to heal the harm as much as possible? |
+============================   ===================
+Retributive Justice            Restorative Justice
+============================   ===================
+What rule or law was broken?   What is the harm? 
+Who broke it?                  What are the needs and obligations of all affected by the harm?
+What punishment is deserved?   How can all the affected parties create a plan to heal the harm as much as possible?
+============================   ===================
 
 The rationale behind this approach is that when offenders reflect upon their harm to victims:
 
@@ -218,31 +233,12 @@ The basic practices of restorative justice can be summarised as follows:
 * This can work. I can live with it: agreements are made by consensus.
 * I am willing to do this: participation is voluntary.
 
-\(Oakland Unified School District Restorative Justice Implementation Guide[\[j\]]()\)
+\(Oakland Unified School District Restorative Justice Implementation Guide)
 
-[\[1\]]() Maines, B., & Robinson, G. \(1998\). The no blame approach to bullying. In D. Shorrocks-Taylor \(Ed.\), Directions in educational psychology \(p. 281–295\). Whurr Publishers.
+.. rubric:: Footnotes
 
-[\[2\]]()   Bazemore, G. \(2001\). Young People, Trouble, and Crime: Restorative Justice as a Normative Theory of Informal Social Control and Social Support. Youth & Society, 33\(2\), 199–226. [https://doi.org/10.1177/0044118X01033002004](https://www.google.com/url?q=https://doi.org/10.1177/0044118X01033002004&sa=D&ust=1580146813521000); Sally Varnham \(2005\) Seeing things differently: restorative justice and school discipline, Education and the Law, 17:3, 87-104, DOI: 10.1080/09539960500334061; M.Wright \(1999\) Restoring Respect for Justice: A Symposium \(Winchester\).
+.. [1] Maines, B., & Robinson, G. \(1998\). The no blame approach to bullying. In D. Shorrocks-Taylor \(Ed.\), Directions in educational psychology \(p. 281–295\). Whurr Publishers.
 
-[\[3\]]() Cameron, L and Thorsborne, M \(2001\) Restorative Justice and School Discipline:
+.. [2]   Bazemore, G. \(2001\). Young People, Trouble, and Crime: Restorative Justice as a Normative Theory of Informal Social Control and Social Support. Youth & Society, 33\(2\), 199–226. [https://doi.org/10.1177/0044118X01033002004](https://www.google.com/url?q=https://doi.org/10.1177/0044118X01033002004&sa=D&ust=1580146813521000); Sally Varnham \(2005\) Seeing things differently: restorative justice and school discipline, Education and the Law, 17:3, 87-104, DOI: 10.1080/09539960500334061; M.Wright \(1999\) Restoring Respect for Justice: A Symposium \(Winchester\).
 
-Mutually Exclusive. Restorative Justice and Civil Society. H.B.Strang, J.Braithwaite,
-
-Cambridge Press, UK:180-194.
-
-[\[a\]]()Esto se puede incluir en el control de versiones, no hace falta ponerlo aquí.
-
-[\[c\]]()si necesitas un modelo de control de versiones tengo varios
-
-[\[d\]]()Vale. Hay que aplicarlo a todos los documentos.
-
-[\[e\]]()Ver la estructura general de documentos y apéndices.
-
-[\[f\]]()Era una nota para acordarme yo de que hay que numerar los anexos correctamente.
-
-[\[g\]]()Ver estructura de apéndices.
-
-[\[h\]]()Ver estructura de anexos.
-
-[\[i\]]()Ver estructura de apéndices.
-
+.. [3] Cameron, L and Thorsborne, M \(2001\) Restorative Justice and School Discipline: Mutually Exclusive. Restorative Justice and Civil Society. H.B.Strang, J.Braithwaite, Cambridge Press, UK:180-194.=======
