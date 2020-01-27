@@ -10,11 +10,13 @@ Kaleide School Docs
 Contents
 --------
 
+Here is some content::
+
 .. toctree::
    :maxdepth: 2
 
-    antibullying
-    behaviour
+   antibullying
+   behaviour
 
 
 Indices and tables
