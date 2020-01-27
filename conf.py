@@ -74,7 +74,7 @@ latex_elements = {
      'pxunit': '',
      'passoptionstopackages': '',
      'babel': '',
-     'fontpkg': '\\usepackage[sfdefault]{roboto}',  #\usepackage[default,oldstyle,scale=0.95]{opensans}
+     'fontpkg': '\\usepackage[T1]{fontenc}',  #\usepackage[default,oldstyle,scale=0.95]{opensans}
      'fncychap': '',
      'preamble': '',
      'figure_align': '',
