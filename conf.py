@@ -70,7 +70,7 @@ latex_elements = {
      'pxunit': '',
      'passoptionstopackages': '',
      'babel': '',
-     'fontpkg': '',
+     'fontpkg': '\\usepackage{opensans}',  #\usepackage[default,oldstyle,scale=0.95]{opensans}
      'fncychap': '',
      'preamble': '',
      'figure_align': '',
