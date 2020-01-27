@@ -1,4 +1,5 @@
-# Behaviour Policy
+Behaviour Policy
+================
 
 ## Introduction
 
