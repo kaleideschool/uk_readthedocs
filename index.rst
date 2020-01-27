@@ -8,9 +8,9 @@ Kaleide School Docs
 
 
 Contents
---------
+^^^^^^^
 
-Here is some content::
+Here is some content
 
 .. toctree::
    :maxdepth: 2
