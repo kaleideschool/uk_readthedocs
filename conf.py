@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Kaleide Policies'
+project = 'Kaleide School Docs'
 copyright = '2020, Diana Isabel de Horna Cicka, Diego Gutiérrez Marañón'
 author = 'Diana Isabel de Horna Cicka, Diego Gutiérrez Marañón'
 
