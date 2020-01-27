@@ -70,7 +70,7 @@ latex_elements = {
      'pxunit': '',
      'passoptionstopackages': '',
      'babel': '',
-     'fontpkg': '\\usepackage{opensans}',  #\usepackage[default,oldstyle,scale=0.95]{opensans}
+     'fontpkg': '\\usepackage{roboto}',  #\usepackage[default,oldstyle,scale=0.95]{opensans}
      'fncychap': '',
      'preamble': '',
      'figure_align': '',
