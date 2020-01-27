@@ -70,7 +70,7 @@ latex_engine = 'xelatex'
 latex_show_pagerefs = True
 latex_elements = {
      'papersize': 'a4paper',
-     'pointsize': '12pt',
+     'pointsize': '10pt',
      'pxunit': '',
      'passoptionstopackages': '',
      'babel': '',
