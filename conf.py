@@ -62,6 +62,6 @@ html_static_path = ['_static']
  #Pdf generation
 
 latex_engine = 'xelatex'
-latex_documents = ('index', 'test', 'TEST', 'Diana')
+#latex_documents = ('index', 'test', 'TEST', 'Diana')
 latex_show_pagerefs = True
 
