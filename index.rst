@@ -8,7 +8,7 @@ Kaleide School Docs
 
 
 Contents
-^^^^^^^
+--------
 
 .. toctree::
    :maxdepth: 2
